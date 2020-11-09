@@ -1,0 +1,9 @@
+DROP TABLE VaccineNames;
+DROP TABLE VaccineRecord;
+DROP TABLE Attendance;
+DROP TABLE Locations;
+DROP TABLE Employee;
+DROP TABLE OfficeLocation;
+DROP TABLE Child;
+DROP TABLE Parentaccount;
+DROP TABLE Parent;
